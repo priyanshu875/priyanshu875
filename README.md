@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11wx8Mvy_a0U6OCg7_RS76sp49zslqFIm/view](https://drive.google.com/file/d/11wx8Mvy_a0U6OCg7_RS76sp49zslqFIm/view)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Hrefs:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshuag875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshuag875" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/priyanshuag_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshuag_/" height="30" width="40" /></a>
