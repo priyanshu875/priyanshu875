@@ -5,7 +5,7 @@
 
 - 📫 Can reach me at **https://www.linkedin.com/in/priyanshuag875/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11wx8Mvy_a0U6OCg7_RS76sp49zslqFIm/view](https://drive.google.com/file/d/11wx8Mvy_a0U6OCg7_RS76sp49zslqFIm/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GtUgcPo9HoeRmMVqL42wb_i40A8A3Gkn/view](https://drive.google.com/file/d/11wx8Mvy_a0U6OCg7_RS76sp49zslqFIm/view)
 
 <h3 align="left">Hrefs:</h3>
 <p align="left">
